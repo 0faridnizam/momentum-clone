@@ -2,7 +2,7 @@
 
 A clone of the productivity chrome app [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on ReactJs
 
-<h3 align="center"><a href="https://momentum-clone.pages.dev/" target="_blank">Try it out!</a></h3>
+<h3 align="center"><a href="https://momentum-clone.pages.dev/">Try it out!</a></h3>
 
 ## 💡 Features
 
