@@ -32,3 +32,7 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 <br>
 <br>
+
+## License
+
+This Project is Under [MIT License](LICENSE) &copy; Farid Nizam
